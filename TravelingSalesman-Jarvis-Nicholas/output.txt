@@ -1,0 +1,61 @@
+Reno to San_Francisco to Salt_Lake_City to Seattle to Vegas to Reno
+Total Distance Travelled: 3338, and Total Gallons Used: 83.45
+
+Reno to San_Francisco to Salt_Lake_City to Vegas to Seattle to Reno
+Total Distance Travelled: 3197, and Total Gallons Used: 79.925
+
+Reno to San_Francisco to Seattle to Salt_Lake_City to Vegas to Reno
+Total Distance Travelled: 2716, and Total Gallons Used: 67.9
+
+Reno to San_Francisco to Seattle to Vegas to Salt_Lake_City to Reno
+Total Distance Travelled: 3080, and Total Gallons Used: 77
+
+Reno to San_Francisco to Vegas to Salt_Lake_City to Seattle to Reno
+Total Distance Travelled: 2745, and Total Gallons Used: 68.625
+
+Reno to San_Francisco to Vegas to Seattle to Salt_Lake_City to Reno
+Total Distance Travelled: 3250, and Total Gallons Used: 81.25
+
+Reno to Seattle to Salt_Lake_City to San_Francisco to Vegas to Reno
+Total Distance Travelled: 3281, and Total Gallons Used: 82.025
+
+Reno to Seattle to Salt_Lake_City to Vegas to San_Francisco to Reno
+Total Distance Travelled: 2745, and Total Gallons Used: 68.625
+
+Reno to Seattle to San_Francisco to Salt_Lake_City to Vegas to Reno
+Total Distance Travelled: 3111, and Total Gallons Used: 77.775
+
+Reno to Seattle to San_Francisco to Vegas to Salt_Lake_City to Reno
+Total Distance Travelled: 3023, and Total Gallons Used: 75.575
+
+Reno to Seattle to Vegas to Salt_Lake_City to San_Francisco to Reno
+Total Distance Travelled: 3197, and Total Gallons Used: 79.925
+
+Reno to Seattle to Vegas to San_Francisco to Salt_Lake_City to Reno
+Total Distance Travelled: 3645, and Total Gallons Used: 91.125
+
+Reno to Vegas to Salt_Lake_City to San_Francisco to Seattle to Reno
+Total Distance Travelled: 3111, and Total Gallons Used: 77.775
+
+Reno to Vegas to Salt_Lake_City to Seattle to San_Francisco to Reno
+Total Distance Travelled: 2716, and Total Gallons Used: 67.9
+
+Reno to Vegas to San_Francisco to Salt_Lake_City to Seattle to Reno
+Total Distance Travelled: 3281, and Total Gallons Used: 82.025
+
+Reno to Vegas to San_Francisco to Seattle to Salt_Lake_City to Reno
+Total Distance Travelled: 3164, and Total Gallons Used: 79.1
+
+Reno to Vegas to Seattle to Salt_Lake_City to San_Francisco to Reno
+Total Distance Travelled: 3338, and Total Gallons Used: 83.45
+
+Reno to Vegas to Seattle to San_Francisco to Salt_Lake_City to Reno
+Total Distance Travelled: 3616, and Total Gallons Used: 90.4
+
+
+--------------------------------------------------------------
+                      Best Route:
+
+Reno to San_Francisco to Seattle to Salt_Lake_City to Vegas to Reno
+Total Distance Travelled: 2716, and Total Gallons Used: 67.9
+
